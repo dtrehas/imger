@@ -1,7 +1,7 @@
 package threshold
 
 import (
-	"github.com/ernyoke/imger/imgio"
+	"github.com/ernyoke/dtrehas/imgio"
 	"image"
 	"testing"
 )
