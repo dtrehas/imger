@@ -1,8 +1,8 @@
 package edgedetection
 
 import (
-	"github.com/ernyoke/imger/imgio"
-	"github.com/ernyoke/imger/padding"
+	"github.com/dtrehas/imger/imgio"
+	"github.com/dtrehas/imger/padding"
 	"image"
 	"testing"
 )
