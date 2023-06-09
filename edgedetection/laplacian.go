@@ -2,9 +2,9 @@ package edgedetection
 
 import (
 	"errors"
-	"github.com/ernyoke/imger/convolution"
-	"github.com/ernyoke/imger/grayscale"
-	"github.com/ernyoke/imger/padding"
+	"github.com/dtrehas/imger/convolution"
+	"github.com/dtrehas/imger/grayscale"
+	"github.com/dtrehas/imger/padding"
 	"image"
 )
 
