@@ -1,8 +1,8 @@
 package padding
 
 import (
-	"github.com/ernyoke/imger/imgio"
-	"github.com/ernyoke/imger/utils"
+	"github.com/dtrehas/imger/imgio"
+	"github.com/dtrehas/imger/utils"
 	"image"
 	"testing"
 )
