@@ -2,7 +2,7 @@ package resize
 
 import (
 	"errors"
-	"github.com/ernyoke/imger/utils"
+	"github.com/dtrehas/imger/utils"
 	"image"
 	"image/color"
 	"math"
