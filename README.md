@@ -2,7 +2,8 @@
 [![MIT License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/anthonynsimon/bild/blob/master/LICENSE)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Ernyoke/Imger)](https://goreportcard.com/report/github.com/Ernyoke/Imger)
 
-This repository contains a collection of image processing algorithms written in pure Go.
+This is a fork of Ervin Szilágyi Ernyoke repository ( Ernyoke/Imger )
+and contains a collection of image processing algorithms written in pure Go.
 
 ## Currently supported
 * IO (ImreadGray, ImreadGray16, ImreadRGBA, ImreadRGBA64, Imwrite). Supported extensions: jpg, jpeg, png
